@@ -240,7 +240,7 @@ https://kubesphere.io             20xx-xx-xx xx:xx:xx
 {{</ notice >}}
 
 ## 附录
-
+---这个清单和https://github.com/kubesphere/ks-installer/releases/download/v3.3.1/images-list.txt的镜像路径不一致，导致重复下载两次。
 ### KubeSphere 3.3 镜像清单
 
 ```txt
